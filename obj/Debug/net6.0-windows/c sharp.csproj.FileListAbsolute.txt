@@ -1,0 +1,17 @@
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\bin\Debug\net6.0-windows\c sharp.exe
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\bin\Debug\net6.0-windows\c sharp.deps.json
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\bin\Debug\net6.0-windows\c sharp.runtimeconfig.json
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\bin\Debug\net6.0-windows\c sharp.dll
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\bin\Debug\net6.0-windows\c sharp.pdb
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.csproj.AssemblyReference.cache
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c_sharp.Form1.resources
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.csproj.GenerateResource.cache
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.AssemblyInfoInputs.cache
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.AssemblyInfo.cs
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.csproj.CoreCompileInputs.cache
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.dll
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\refint\c sharp.dll
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.pdb
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\c sharp.genruntimeconfig.cache
+D:\SAMIRA\C-PROJECT\c sharp\c sharp\obj\Debug\net6.0-windows\ref\c sharp.dll
