@@ -1,4 +1,4 @@
-namespace c_sharp
+namespace calculatorusingcsharp
 {
     internal static class Program
     {

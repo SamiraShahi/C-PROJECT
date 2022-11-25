@@ -12,7 +12,7 @@ namespace calculatorusingcsharp
         }
         public void GetResultValue()
         {
-            if (input.Text != "" && input.Text != "+" && input.Text != "" && input.Text != "-" && input.Text != "*" && input.Text != "/")
+            if (input.Text != "" && input.Text != "+" && input.Text != "-" && input.Text != "*" && input.Text != "/")
             {
                 calculation = Convert.ToDecimal(input.Text);
             }
@@ -70,7 +70,7 @@ namespace calculatorusingcsharp
 
         private void button10_Click(object sender, EventArgs e)
         {
-            if (input.Text=="+"|| input.Text == "-"|| input.Text == "-"|| input.Text == "/")
+            if (input.Text=="+"|| input.Text == "-"|| input.Text == "*"|| input.Text == "/")
             {
                 input.Text = "1";
             }
@@ -86,7 +86,7 @@ namespace calculatorusingcsharp
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "8";
             }
@@ -99,7 +99,7 @@ namespace calculatorusingcsharp
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "9";
             }
@@ -112,7 +112,7 @@ namespace calculatorusingcsharp
 
         private void button9_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "4";
             }
@@ -125,7 +125,7 @@ namespace calculatorusingcsharp
 
         private void button8_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "5";
             }
@@ -138,7 +138,7 @@ namespace calculatorusingcsharp
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "6";
             }
@@ -152,7 +152,7 @@ namespace calculatorusingcsharp
         private void button11_Click(object sender, EventArgs e)
         {
             //input.Text = "2";
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "2";
             }
@@ -167,7 +167,7 @@ namespace calculatorusingcsharp
         private void button12_Click(object sender, EventArgs e)
         {
             //input.Text = "3";
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "3";
             }
@@ -230,7 +230,7 @@ namespace calculatorusingcsharp
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (input.Text == "+" || input.Text == "-" || input.Text == "-" || input.Text == "/")
+            if (input.Text == "+" || input.Text == "-" || input.Text == "*" || input.Text == "/")
             {
                 input.Text = "7";
             }
@@ -239,6 +239,19 @@ namespace calculatorusingcsharp
                 string data = input.Text;
                 input.Text = data + "7";
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            employeeform object_name = new employeeform();
+           object_name.Show();
+           
         }
     }
 }
