@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="foodcategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listofoperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nonveg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resetPasssword.cs">
+<<<<<<< HEAD
+=======
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="veg.cs">
+>>>>>>> 021409b97325175a9ce6be420ca07d01ad799588
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
